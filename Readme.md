@@ -17,6 +17,7 @@ Options and Arguments:
 
 Examples:
 python crypt_cli.py -e -n "Hello World" -o 5
+
 python crypt_cli.py -d -n "Mjqqt Btwqi" -o 5
 
 Contact:
